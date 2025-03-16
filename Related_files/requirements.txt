@@ -1,0 +1,12 @@
+datasets
+huggingface_hub
+transformers
+torch
+accelerate
+sklearn
+sckiti-learn
+pandas
+numpy
+matplotlib
+seaborn
+wandb
