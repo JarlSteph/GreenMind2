@@ -1,0 +1,50 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@plugin "daisyui";
+
+/* Loader animation styles */
+.loader {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(255, 255, 255, 0.8);
+  transition: opacity 0.4s ease-in-out;
+  opacity: 0;
+}
+
+.loader:before,
+.loader:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #FFF;
+  animation: slide 0.5s infinite linear alternate;
+  opacity: 0.5;
+}
+.loader:after {
+  animation: slide2 0.5s infinite linear alternate;
+  opacity: 1;
+}
+
+@keyframes slide {
+  0%, 20% { transform: translate(0, 0); }
+  80%, 100% { transform: translate(15px, 15px); }
+}
+@keyframes slide2 {
+  0%, 20% { transform: translate(0, 0); }
+  80%, 100% { transform: translate(-15px, -15px); }
+}
+
+/* When isLoading is true, show the loader */
+.loader-active {
+  opacity: 1;
+}
