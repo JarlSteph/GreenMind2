@@ -36,7 +36,8 @@ By leveraging **LLMs and smart energy-efficient computation**, we aim to reduce 
 The code for training our custom model and the generation of the dataset is in the `Related_files`. The dataset is found here: 
 https://huggingface.co/datasets/nali24mai/hackathon_dataset
 
-The Model is found here:
+The distilled BERT trained model is here:
+
 https://huggingface.co/nali24mai/bert_prompt_classifier
 
 ---
