@@ -13,15 +13,17 @@ By leveraging **LLMs and smart energy-efficient computation**, we aim to reduce 
 ## 🛠 Tech Stack  
 
 🌍 **Frontend:** React, Vite, TailwindCSS  
-🧠 **AI Backend:** Customer DistilBART model using Hugging Face Transformers, AWS  
+🧠 **AI Backend:** Custom DistilBART model using Hugging Face Transformers, AWS  
 
 ---
 
 ## 👥 Meet The Team  
 
-👨‍💻 **[Michel Burch]** – LinkedIn top-voice and AI enthusiast.
-🎨 **[Lina Bousbina]** – Data Science lover, entrepreneurship enthousiast UI/UX Designer  
-🔗 **[Jarl Stephansson]** – AI/frontend wizzard, sustanability aware
+👨‍💻 **Michel Burch** – LinkedIn Top Voice and AI enthusiast  
+
+🎨 **Lina Bousbina** – Data Science lover, entrepreneurship enthusiast, UI/UX designer  
+
+🔗 **Jarl Stephansson** – AI/frontend wizard, sustainability-aware  
 
 ---
 
@@ -31,4 +33,9 @@ By leveraging **LLMs and smart energy-efficient computation**, we aim to reduce 
 
 ---
 
-🚀 **Join us in building a sustainable AI future!** 🌱
+## 📄 One-Pager  
+📂 **Find it in the `Related_files` folder.**  
+
+---
+
+🚀 **Join us in building a sustainable AI future!** 🌱  
