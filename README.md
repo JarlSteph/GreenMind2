@@ -1,12 +1,28 @@
-# React + Vite
+##🌿 GreenMind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sustainable AI-Powered Chatbot for a Greener Future
 
-Currently, two official plugins are available:
+🌱 About GreenMind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+GreenMind is an AI-powered chatbot designed to promote sustainability and eco-conscious living. By leveraging LLMs and smart energy-efficient computation, we aim to reduce environmental impact while providing helpful insights.
+---
 
-## Expanding the ESLint configuration
+🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌍 Frontend: React, Vite, TailwindCSS
+🧠 AI Backend: Hugging Face Transformers, AWS
+📦 Deployment: Docker, Vercel
+
+---
+👨‍💻 [Your Name] – AI & ML Engineer
+🎨 [Your Name] – UI/UX Designer
+🔗 [Your Name] – Full Stack Developer
+💡 [Your Name] – Sustainability Specialist
+
+---
+
+MiroBord
+
+https://miro.com/app/board/uXjVIQ-h9Gs=/?userEmail=jarl.stephansson@gmail.com&track=true&utm_source=notification&utm_medium=email&utm_campaign=add-to-team-and-board&utm_content=go-to-board&lid=6wzznu0o8wz9
+
+---
