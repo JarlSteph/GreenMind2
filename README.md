@@ -13,17 +13,15 @@ By leveraging **LLMs and smart energy-efficient computation**, we aim to reduce 
 ## 🛠 Tech Stack  
 
 🌍 **Frontend:** React, Vite, TailwindCSS  
-🧠 **AI Backend:** Hugging Face Transformers, AWS  
-📦 **Deployment:** Docker, Vercel  
+🧠 **AI Backend:** Customer DistilBART model using Hugging Face Transformers, AWS  
 
 ---
 
 ## 👥 Meet The Team  
 
-👨‍💻 **[Your Name]** – AI & ML Engineer  
-🎨 **[Your Name]** – UI/UX Designer  
-🔗 **[Your Name]** – Full Stack Developer  
-💡 **[Your Name]** – Sustainability Specialist  
+👨‍💻 **[Michel Burch]** – LinkedIn top-voice and AI enthusiast.
+🎨 **[Lina Bousbina]** – Data Science lover, entrepreneurship enthousiast UI/UX Designer  
+🔗 **[Jarl Stephansson]** – AI/frontend wizzard, sustanability aware
 
 ---
 
